@@ -1,5 +1,4 @@
 # SiriusTest
-Automated tests for the registration form with Selenium and Pytest
 Для запуска тестов необходимо:
 1) Создать виртуальное окружение и активировать его.
 2) Выполнить pip install -r requirements.txt
